@@ -1,3 +1,4 @@
 *.csv
 *.bin/
-/models/
+.models/
+.vscode/

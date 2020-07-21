@@ -1,0 +1,2 @@
+train_input = 'C:/Users/Arpan/Downloads/Education/ML/Approaching-almost-any-Machine-Learning-Problem/Approaching categorical variables/input(2)/train.csv'
+train_data_folds = 'C:/Users/Arpan/Downloads/Education/ML/Approaching-almost-any-Machine-Learning-Problem/Approaching categorical variables/input(2)/train_folds.csv'
