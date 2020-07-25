@@ -131,5 +131,7 @@ knn_imputer = impute.KNNImputer(n_neighbors = 2)
 x = knn_imputer.fit_transform(x)
 print(x)
 
+# another approach is to train a model on the columns except the one with the 
+# nan values and then predict the values and impute based on that
 
 

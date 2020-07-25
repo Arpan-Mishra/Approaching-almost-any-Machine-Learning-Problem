@@ -1,4 +1,4 @@
 *.csv
-*.bin/
+*.bin
 .models/
 .vscode/
