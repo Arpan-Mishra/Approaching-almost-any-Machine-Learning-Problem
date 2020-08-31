@@ -43,3 +43,5 @@ print([x for x,y in zip(columns, support) if y == True])
 
 # do feature selection on training and then validate on validation model to 
 # prevent overfitting
+
+
